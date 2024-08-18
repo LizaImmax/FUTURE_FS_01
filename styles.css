@@ -1,15 +1,15 @@
 /* styles.css */
 body {
     font-family: 'Comic Neue', cursive, sans-serif;
-    background-color: #fef0ff;
-    color: #333;
+    background-color: #fdf0ff;
+    color: #333333;
     margin: 0;
     padding: 0;
     text-align: center;
 }
 
 header {
-    background-color: #ff6347;
+    background-color: #ff47c5;
     padding: 20px;
 }
 
