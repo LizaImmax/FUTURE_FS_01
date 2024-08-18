@@ -51,6 +51,12 @@ section h2 {
     margin: 20px;
     padding: 20px;
     border-radius: 10px;
+    text-align: left;
+    line-height: 1.6;
+}
+
+.project-description, .project-use-cases, .project-learning-objectives {
+    margin-bottom: 20px;
 }
 
 .fun-gif {
